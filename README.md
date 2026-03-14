@@ -188,17 +188,11 @@ private static final Color MATCHED_COLOR = new Color(46, 204, 113);
 
 ---
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: @yourusername
-- Email: your.email@example.com
+- GitHub: @jyothishps
+- Email: psjyothish07@gmail.com
 
 ---
 
